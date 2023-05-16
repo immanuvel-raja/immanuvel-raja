@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @immanuvel-raja
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning react.js
+- 🌱 I’m currently working as Angular developer
 - 💞️ I’m looking to collaborate on web design
 - 📫 How to reach me ...rajaimmanuvel56@gmail.com
 
